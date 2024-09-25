@@ -1,7 +1,8 @@
 function rockPaperScissors(player1, player2) {
+  const choices = ["rock", "paper", "scissors"];
 
-  
-   
+  player1 = player1.toLowerCase();
+  player2 = player2.toLowerCase();
 }
 
 
